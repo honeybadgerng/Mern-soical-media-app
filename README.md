@@ -1,4 +1,4 @@
-# Mern-soical-media-app
+# Mern-soical-media-app (Full stack)
 you can demo the project [here](https://mern-social-media2.vercel.app/)
 <br>
 This is a social media app project
