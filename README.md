@@ -1,5 +1,6 @@
 # Mern-soical-media-app
 you can demo the project [here](https://mern-social-media2.vercel.app/)
+<br>
 This is a social media app project
 Introducing a comprehensive Fullstack Responsive MERN App equipped with authentication, likes functionality, and a dynamic Dark Mode feature. Built using React, MongoDB, and MUI, this application encompasses both front-end and back-end components to deliver a seamless user experience.
 
